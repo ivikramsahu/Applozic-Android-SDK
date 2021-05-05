@@ -1,9 +1,25 @@
-Android Chat SDK
+<div style="width:100%">
+    <div style="width:50%; display:inline-block">
+        <p align="center">
+         <img style="border-radius: 50px;" align="center" alt="Applozic's LOGO" src="https://i.imgur.com/mGIQIXy.png?1">
+        </p>
+    </div>
+</div>
 
-### Overview         
+<br></br>
 
-<img align="right" src="https://raw.githubusercontent.com/AppLozic/Applozic-Android-SDK/master/img/android.png" />
+# Official Android SDK for [Chat](https://docs.applozic.com/docs/android-integration-overview)
 
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
+![Platform](https://img.shields.io/badge/Language-java-yellow.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/AppLozic/Applozic-Android-SDK)
+![GitHub contributors](https://img.shields.io/github/contributors/AppLozic/Applozic-Android-SDK)
+![GitHub stars](https://img.shields.io/github/stars/AppLozic/Applozic-Android-SDK?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Applozic?style=social)
+
+## Introduction         
+
+<img align="right" src="https://i.imgur.com/OK9dSLS.png?1" />
 
 Applozic brings real-time engagement with chat, video, and voice to your web,
 mobile, and conversational apps. We power emerging startups and established
@@ -23,7 +39,7 @@ and we're bridging the gap between businesses and customers by delivering those
 exact solutions.
 
 
-### Getting Started       
+## Getting Started       
 
 
 To integrate android chat library into your android app, signup at [Applozic](https://www.applozic.com/signup.html?utm_source=github&utm_medium=readme&utm_campaign=android) to get the App ID.
